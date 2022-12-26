@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am currently a student at ETNA. Currently, I am trying to improve my knowledge in front-end and back-end development. If you have a job to offer me, contact me on my email address : ourlis_s@etna-alternance.net or by phone : 06 52 90 38 31.
+
+Have a nice day ! :) 
 <!--
 **slimetna/slimetna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
