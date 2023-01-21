@@ -6,7 +6,7 @@ I am a student at ETNA. Currently, I am trying to improve my knowledge in front-
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------->
 
- <br>
+ <br><br>
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
