@@ -6,6 +6,9 @@ I am a student at ETNA. Currently, I am trying to improve my knowledge in front-
 
 ### Have a nice day ! :) 
 
+ <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+
 
 <!--
 **slimetna/slimetna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
