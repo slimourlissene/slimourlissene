@@ -4,9 +4,8 @@ I am a student at ETNA. Currently, I am trying to improve my knowledge in front-
 
 ### Have a nice day ! :)
 
-<br/>
-
 <!------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -18,6 +17,7 @@ I am a student at ETNA. Currently, I am trying to improve my knowledge in front-
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------->
 
