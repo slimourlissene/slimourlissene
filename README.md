@@ -2,7 +2,7 @@
 
 I am a student at ETNA. If you have a job to offer me, contact me : 
 
- 📧 : ourlis_s@etna-alternance.net
+ 📧 : ourlis_s@etna-alternance.net </br>
  📱 : 06 52 90 38 31.
 
 ### Have a nice day ! :)
