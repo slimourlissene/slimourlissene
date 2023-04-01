@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br>I am a student at ETNA. If you have a job to offer me, contact me :<br><br>📧 : ourlis_s@etna-alternance.net<br>📱 : 06 52 90 38 31.<br>Have a nice day ! :)
+Hi there 👋<br><br>I'm a fullstack developer at Electis and student at ETNA, if you've job to offer me :<br><br>📧 : ourlis_s@etna-alternance.net<br>📱 : 06 52 90 38 31.<br>Have a nice day ! :)
 
 
 ## 🌐 Socials:
